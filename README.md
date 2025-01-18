@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawaldevesh&label=Profile%20views&color=0e75b6&style=flat" alt="rawaldevesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawaldevesh" alt="rawaldevesh"  height="30" width="40" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawaldevesh" alt="rawaldevesh"  height="100" width="400" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial Neural networks**
 
