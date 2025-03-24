@@ -31,13 +31,11 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawaldevesh&theme=radical" alt="rawaldevesh" /></a> </p>
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rawaldevesh&show_icons=true&locale=en&theme=radical" alt="rawaldevesh" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rawaldevesh&theme=radical" alt="rawaldevesh" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rawaldevesh&show_icons=true&locale=en&layout=compact&theme=radical" alt="rawaldevesh" /></p>
 
 ###
