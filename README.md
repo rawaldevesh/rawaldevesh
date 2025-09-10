@@ -94,8 +94,8 @@ Relevant Coursework: OOP, DSA, DBMS, OS, CN, Software Engineering, Machine Learn
 
 ## 📫 Connect with Me  
 
-- LinkedIn: [linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/YOUR-LINK)  
-- GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
+- LinkedIn: (https://www.linkedin.com/in/devesh102003/)
+- GitHub: (https://github.com/rawaldevesh)
 - Email: rawal2003devesh@gmail.com  
 
 ---
