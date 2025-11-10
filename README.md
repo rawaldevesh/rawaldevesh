@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Devesh Rawal 👋</h1>
 <p align="center">
-  <b>Java Backend Developer | .NET Enthusiast | Curious Mind Exploring AI & Data</b>
+  <b>Java Backend Developer | Curious Mind Exploring AI & Data</b>
 </p>
 
 ---
