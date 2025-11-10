@@ -7,8 +7,8 @@
 
 ## About Me
 
-I am a Java Backend Developer focused on building scalable APIs and logical solutions for modern software projects.  
-Currently interning at Facile Technolab as a .NET Developer, expanding my backend expertise and practical knowledge.  
+I am a Java Backend Developer focused on building scalable APIs and logical solutions for modern software projects.
+expanding my backend expertise and practical knowledge.  
 My long-term goal: blend advanced development, automation, and research-driven learning in AI and data engineering.
 
 ---
